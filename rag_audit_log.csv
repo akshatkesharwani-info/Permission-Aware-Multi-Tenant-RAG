@@ -1,0 +1,9 @@
+time,user,tenant,question,docs_used
+09:39:10,asha_acme_engineer,acme,What are the salary bands?,"A02,A11,A01"
+09:39:11,ravi_acme_hr_manager,acme,What are the salary bands?,"A05,A02,A11"
+09:39:11,guest_acme_visitor,acme,How many days of leave do I get?,A01
+09:39:12,guest_acme_visitor,acme,What are the store opening hours?,A01
+09:39:12,karan_zenith_engineer,zenith,What are the salary bands?,"Z02,Z07,Z10"
+09:39:12,acme_ceo,acme,Is the company planning an acquisition?,"A08,A06,A07"
+09:39:13,karan_zenith_engineer,zenith,How do I contact HR?,"Z10,Z02,Z03"
+09:39:13,asha_acme_engineer,acme,What is happening on Friday?,"A11,A04,A01"

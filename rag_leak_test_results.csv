@@ -1,0 +1,169 @@
+user,question,mode,returned,leaks,leaked_ids
+asha_acme_engineer,What are the salary bands?,none,3,2,"A05,Z04"
+asha_acme_engineer,What are the salary bands?,post,1,0,
+asha_acme_engineer,What are the salary bands?,pre,3,0,
+asha_acme_engineer,Are there any layoffs planned?,none,3,2,"A06,Z02"
+asha_acme_engineer,Are there any layoffs planned?,post,1,0,
+asha_acme_engineer,Are there any layoffs planned?,pre,3,0,
+asha_acme_engineer,What is our Q3 revenue?,none,3,3,"A07,A06,Z05"
+asha_acme_engineer,What is our Q3 revenue?,post,0,0,
+asha_acme_engineer,What is our Q3 revenue?,pre,3,0,
+asha_acme_engineer,Is the company planning an acquisition?,none,3,3,"A08,A06,A07"
+asha_acme_engineer,Is the company planning an acquisition?,post,0,0,
+asha_acme_engineer,Is the company planning an acquisition?,pre,3,0,
+asha_acme_engineer,How many days of leave do I get?,none,3,2,"Z02,Z09"
+asha_acme_engineer,How many days of leave do I get?,post,1,0,
+asha_acme_engineer,How many days of leave do I get?,pre,3,0,
+asha_acme_engineer,Any legal disputes or regulator inquiries?,none,3,3,"Z06,A09,Z09"
+asha_acme_engineer,Any legal disputes or regulator inquiries?,post,0,0,
+asha_acme_engineer,Any legal disputes or regulator inquiries?,pre,3,0,
+asha_acme_engineer,Who will be the next CEO?,none,3,3,"Z08,A06,A08"
+asha_acme_engineer,Who will be the next CEO?,post,0,0,
+asha_acme_engineer,Who will be the next CEO?,pre,3,0,
+asha_acme_engineer,What are the opening hours?,none,3,1,Z01
+asha_acme_engineer,What are the opening hours?,post,2,0,
+asha_acme_engineer,What are the opening hours?,pre,3,0,
+ravi_acme_hr_manager,What are the salary bands?,none,3,1,Z04
+ravi_acme_hr_manager,What are the salary bands?,post,2,0,
+ravi_acme_hr_manager,What are the salary bands?,pre,3,0,
+ravi_acme_hr_manager,Are there any layoffs planned?,none,3,2,"A06,Z02"
+ravi_acme_hr_manager,Are there any layoffs planned?,post,1,0,
+ravi_acme_hr_manager,Are there any layoffs planned?,pre,3,0,
+ravi_acme_hr_manager,What is our Q3 revenue?,none,3,3,"A07,A06,Z05"
+ravi_acme_hr_manager,What is our Q3 revenue?,post,0,0,
+ravi_acme_hr_manager,What is our Q3 revenue?,pre,3,0,
+ravi_acme_hr_manager,Is the company planning an acquisition?,none,3,3,"A08,A06,A07"
+ravi_acme_hr_manager,Is the company planning an acquisition?,post,0,0,
+ravi_acme_hr_manager,Is the company planning an acquisition?,pre,3,0,
+ravi_acme_hr_manager,How many days of leave do I get?,none,3,2,"Z02,Z09"
+ravi_acme_hr_manager,How many days of leave do I get?,post,1,0,
+ravi_acme_hr_manager,How many days of leave do I get?,pre,3,0,
+ravi_acme_hr_manager,Any legal disputes or regulator inquiries?,none,3,3,"Z06,A09,Z09"
+ravi_acme_hr_manager,Any legal disputes or regulator inquiries?,post,0,0,
+ravi_acme_hr_manager,Any legal disputes or regulator inquiries?,pre,3,0,
+ravi_acme_hr_manager,Who will be the next CEO?,none,3,3,"Z08,A06,A08"
+ravi_acme_hr_manager,Who will be the next CEO?,post,0,0,
+ravi_acme_hr_manager,Who will be the next CEO?,pre,3,0,
+ravi_acme_hr_manager,What are the opening hours?,none,3,1,Z01
+ravi_acme_hr_manager,What are the opening hours?,post,2,0,
+ravi_acme_hr_manager,What are the opening hours?,pre,3,0,
+meera_acme_finance_director,What are the salary bands?,none,3,2,"A05,Z04"
+meera_acme_finance_director,What are the salary bands?,post,1,0,
+meera_acme_finance_director,What are the salary bands?,pre,3,0,
+meera_acme_finance_director,Are there any layoffs planned?,none,3,2,"A06,Z02"
+meera_acme_finance_director,Are there any layoffs planned?,post,1,0,
+meera_acme_finance_director,Are there any layoffs planned?,pre,3,0,
+meera_acme_finance_director,What is our Q3 revenue?,none,3,2,"A06,Z05"
+meera_acme_finance_director,What is our Q3 revenue?,post,1,0,
+meera_acme_finance_director,What is our Q3 revenue?,pre,3,0,
+meera_acme_finance_director,Is the company planning an acquisition?,none,3,2,"A08,A06"
+meera_acme_finance_director,Is the company planning an acquisition?,post,1,0,
+meera_acme_finance_director,Is the company planning an acquisition?,pre,3,0,
+meera_acme_finance_director,How many days of leave do I get?,none,3,2,"Z02,Z09"
+meera_acme_finance_director,How many days of leave do I get?,post,1,0,
+meera_acme_finance_director,How many days of leave do I get?,pre,3,0,
+meera_acme_finance_director,Any legal disputes or regulator inquiries?,none,3,3,"Z06,A09,Z09"
+meera_acme_finance_director,Any legal disputes or regulator inquiries?,post,0,0,
+meera_acme_finance_director,Any legal disputes or regulator inquiries?,pre,3,0,
+meera_acme_finance_director,Who will be the next CEO?,none,3,3,"Z08,A06,A08"
+meera_acme_finance_director,Who will be the next CEO?,post,0,0,
+meera_acme_finance_director,Who will be the next CEO?,pre,3,0,
+meera_acme_finance_director,What are the opening hours?,none,3,1,Z01
+meera_acme_finance_director,What are the opening hours?,post,2,0,
+meera_acme_finance_director,What are the opening hours?,pre,3,0,
+acme_ceo,What are the salary bands?,none,3,1,Z04
+acme_ceo,What are the salary bands?,post,2,0,
+acme_ceo,What are the salary bands?,pre,3,0,
+acme_ceo,Are there any layoffs planned?,none,3,1,Z02
+acme_ceo,Are there any layoffs planned?,post,2,0,
+acme_ceo,Are there any layoffs planned?,pre,3,0,
+acme_ceo,What is our Q3 revenue?,none,3,1,Z05
+acme_ceo,What is our Q3 revenue?,post,2,0,
+acme_ceo,What is our Q3 revenue?,pre,3,0,
+acme_ceo,Is the company planning an acquisition?,none,3,0,
+acme_ceo,Is the company planning an acquisition?,post,3,0,
+acme_ceo,Is the company planning an acquisition?,pre,3,0,
+acme_ceo,How many days of leave do I get?,none,3,2,"Z02,Z09"
+acme_ceo,How many days of leave do I get?,post,1,0,
+acme_ceo,How many days of leave do I get?,pre,3,0,
+acme_ceo,Any legal disputes or regulator inquiries?,none,3,2,"Z06,Z09"
+acme_ceo,Any legal disputes or regulator inquiries?,post,1,0,
+acme_ceo,Any legal disputes or regulator inquiries?,pre,3,0,
+acme_ceo,Who will be the next CEO?,none,3,1,Z08
+acme_ceo,Who will be the next CEO?,post,2,0,
+acme_ceo,Who will be the next CEO?,pre,3,0,
+acme_ceo,What are the opening hours?,none,3,1,Z01
+acme_ceo,What are the opening hours?,post,2,0,
+acme_ceo,What are the opening hours?,pre,3,0,
+guest_acme_visitor,What are the salary bands?,none,3,3,"A05,Z04,A02"
+guest_acme_visitor,What are the salary bands?,post,0,0,
+guest_acme_visitor,What are the salary bands?,pre,1,0,
+guest_acme_visitor,Are there any layoffs planned?,none,3,3,"A06,Z02,A11"
+guest_acme_visitor,Are there any layoffs planned?,post,0,0,
+guest_acme_visitor,Are there any layoffs planned?,pre,1,0,
+guest_acme_visitor,What is our Q3 revenue?,none,3,3,"A07,A06,Z05"
+guest_acme_visitor,What is our Q3 revenue?,post,0,0,
+guest_acme_visitor,What is our Q3 revenue?,pre,1,0,
+guest_acme_visitor,Is the company planning an acquisition?,none,3,3,"A08,A06,A07"
+guest_acme_visitor,Is the company planning an acquisition?,post,0,0,
+guest_acme_visitor,Is the company planning an acquisition?,pre,1,0,
+guest_acme_visitor,How many days of leave do I get?,none,3,3,"Z02,A02,Z09"
+guest_acme_visitor,How many days of leave do I get?,post,0,0,
+guest_acme_visitor,How many days of leave do I get?,pre,1,0,
+guest_acme_visitor,Any legal disputes or regulator inquiries?,none,3,3,"Z06,A09,Z09"
+guest_acme_visitor,Any legal disputes or regulator inquiries?,post,0,0,
+guest_acme_visitor,Any legal disputes or regulator inquiries?,pre,1,0,
+guest_acme_visitor,Who will be the next CEO?,none,3,3,"Z08,A06,A08"
+guest_acme_visitor,Who will be the next CEO?,post,0,0,
+guest_acme_visitor,Who will be the next CEO?,pre,1,0,
+guest_acme_visitor,What are the opening hours?,none,3,2,"Z01,A11"
+guest_acme_visitor,What are the opening hours?,post,1,0,
+guest_acme_visitor,What are the opening hours?,pre,1,0,
+karan_zenith_engineer,What are the salary bands?,none,3,3,"A05,Z04,A02"
+karan_zenith_engineer,What are the salary bands?,post,0,0,
+karan_zenith_engineer,What are the salary bands?,pre,3,0,
+karan_zenith_engineer,Are there any layoffs planned?,none,3,2,"A06,A11"
+karan_zenith_engineer,Are there any layoffs planned?,post,1,0,
+karan_zenith_engineer,Are there any layoffs planned?,pre,3,0,
+karan_zenith_engineer,What is our Q3 revenue?,none,3,3,"A07,A06,Z05"
+karan_zenith_engineer,What is our Q3 revenue?,post,0,0,
+karan_zenith_engineer,What is our Q3 revenue?,pre,3,0,
+karan_zenith_engineer,Is the company planning an acquisition?,none,3,3,"A08,A06,A07"
+karan_zenith_engineer,Is the company planning an acquisition?,post,0,0,
+karan_zenith_engineer,Is the company planning an acquisition?,pre,3,0,
+karan_zenith_engineer,How many days of leave do I get?,none,3,2,"A02,Z09"
+karan_zenith_engineer,How many days of leave do I get?,post,1,0,
+karan_zenith_engineer,How many days of leave do I get?,pre,3,0,
+karan_zenith_engineer,Any legal disputes or regulator inquiries?,none,3,3,"Z06,A09,Z09"
+karan_zenith_engineer,Any legal disputes or regulator inquiries?,post,0,0,
+karan_zenith_engineer,Any legal disputes or regulator inquiries?,pre,3,0,
+karan_zenith_engineer,Who will be the next CEO?,none,3,3,"Z08,A06,A08"
+karan_zenith_engineer,Who will be the next CEO?,post,0,0,
+karan_zenith_engineer,Who will be the next CEO?,pre,3,0,
+karan_zenith_engineer,What are the opening hours?,none,3,2,"A01,A11"
+karan_zenith_engineer,What are the opening hours?,post,1,0,
+karan_zenith_engineer,What are the opening hours?,pre,3,0,
+nisha_zenith_legal_director,What are the salary bands?,none,3,3,"A05,Z04,A02"
+nisha_zenith_legal_director,What are the salary bands?,post,0,0,
+nisha_zenith_legal_director,What are the salary bands?,pre,3,0,
+nisha_zenith_legal_director,Are there any layoffs planned?,none,3,2,"A06,A11"
+nisha_zenith_legal_director,Are there any layoffs planned?,post,1,0,
+nisha_zenith_legal_director,Are there any layoffs planned?,pre,3,0,
+nisha_zenith_legal_director,What is our Q3 revenue?,none,3,3,"A07,A06,Z05"
+nisha_zenith_legal_director,What is our Q3 revenue?,post,0,0,
+nisha_zenith_legal_director,What is our Q3 revenue?,pre,3,0,
+nisha_zenith_legal_director,Is the company planning an acquisition?,none,3,3,"A08,A06,A07"
+nisha_zenith_legal_director,Is the company planning an acquisition?,post,0,0,
+nisha_zenith_legal_director,Is the company planning an acquisition?,pre,3,0,
+nisha_zenith_legal_director,How many days of leave do I get?,none,3,1,A02
+nisha_zenith_legal_director,How many days of leave do I get?,post,2,0,
+nisha_zenith_legal_director,How many days of leave do I get?,pre,3,0,
+nisha_zenith_legal_director,Any legal disputes or regulator inquiries?,none,3,1,A09
+nisha_zenith_legal_director,Any legal disputes or regulator inquiries?,post,2,0,
+nisha_zenith_legal_director,Any legal disputes or regulator inquiries?,pre,3,0,
+nisha_zenith_legal_director,Who will be the next CEO?,none,3,3,"Z08,A06,A08"
+nisha_zenith_legal_director,Who will be the next CEO?,post,0,0,
+nisha_zenith_legal_director,Who will be the next CEO?,pre,3,0,
+nisha_zenith_legal_director,What are the opening hours?,none,3,2,"A01,A11"
+nisha_zenith_legal_director,What are the opening hours?,post,1,0,
+nisha_zenith_legal_director,What are the opening hours?,pre,3,0,
